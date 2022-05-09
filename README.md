@@ -1,4 +1,4 @@
-# Visualizing-Quantum-Computing-using-fractals
+# Visualizing Quantum Computing using fractals
 
 **Introduction**
 <br />
