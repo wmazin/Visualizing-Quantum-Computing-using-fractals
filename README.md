@@ -24,8 +24,8 @@ You may need to experiment with different gates, phases and circuits in order to
 <br />
 
 **Acknowledgments**
-  - In honor of Erik Mosekilde
-  - Inspiration from https://github.com/mickahell/quantum_experiments/tree/develop/qiskit/qfractals
+<br />
+This project is in honor of my late professor, [Erik Mosekilde](https://www.researchgate.net/profile/Erik-Mosekilde), who inspired me with his persona and his teachings and works on chaos theory, bifurcations, fractals and Turing patterns.
 
 <br />
 
