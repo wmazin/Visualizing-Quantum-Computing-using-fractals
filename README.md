@@ -37,4 +37,5 @@ Read more about the project in the blog<link>
 <br />
 
 **Contact**
+<br />
 [Wiktor Mazin](https://www.linkedin.com/in/wiktor-mazin-phd-mmt-062321/)
