@@ -6,7 +6,7 @@ Quantum computing can be pretty abstract. As a result, it's rather challenging t
 <br />
 
 I created two notebooks to show how quantum computing can be visualized using fractals. <br />
-The 1-qubit notebook demonstrates this with one qubit in the ideal case, mimicking running on a fault-tolerant quantum computer with a simulator. Try it yourself, either go with the default quantum circuit or create your own 1-qubit quantum circuit and also see how the fractal looks after running on a real quantum computer!
+The 1-qubit notebook demonstrates this with one qubit in the ideal case, mimicking running on a fault-tolerant quantum computer with a simulator. Try it yourself, either go with the default quantum circuit or create your own 1-qubit quantum circuit and also see how the fractal looks after running on a real quantum computer! <br />
 The 2-qubit notebook makes it possible to create fractals that can be used to visualize two-qubit quantum circuits, showing how, e.g., quantum entanglement may look like a fractal. Of course, you may also use a real quantum computer to generate the fractal and compare with the simulated.
 
 Read more about the project in the blog<link>
