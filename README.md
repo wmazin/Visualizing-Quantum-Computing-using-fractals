@@ -14,8 +14,8 @@ Read more about the project in the blog<link>.
 <br />
 
 **Getting started**
- - upload the notebooks to quantum-computing.ibm.com/
- - Start with a default 1- and 2-qubit circuit yielding nice fractals
+1. Upload the notebooks to the [IBM Quantum Lab](https://quantum-computing.ibm.com/) 
+2. Start with a default 1- and 2-qubit circuit yielding nice fractals
     - Explain why you need to add a rotation 
  - Link to the IBM Quantum Composer, tutorial
  - You can also choose to write the qiskit code and not use the Composer
