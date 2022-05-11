@@ -29,6 +29,8 @@ This project is in honor of my late professor, [Erik Mosekilde](https://www.rese
 
 <br />
 
+**License**
+<br />
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
