@@ -4,6 +4,7 @@
 <br />
 Quantum computing can be pretty abstract. As a result, it's rather challenging to get the imagination going when dealing with qubits, quantum circuits and quantum states. As people get started using quantum computing, one of the biggest challenges is visualizing the complex mathematics underlying quantum states. Typically, we rely on the [Bloch sphere](https://qiskit.org/textbook/ch-states/representing-qubit-states.html#bloch-sphere) and [Q-sphere](https://quantum-computing.ibm.com/composer/docs/iqx/visualizations#q-sphere-view). However, given the richness of the field of complex numbers, there are plenty of more interesting ways to represent quantum information.
 <br />
+<a target="_blank" rel="noopener noreferrer" href="/wmazin/Visualizing-Quantum-Computing-using-fractals/blob/main/img/1qubit_simulator_H_U_pi4_-pi3_pi8_dpi600.png"><img src="/wmazin/Visualizing-Quantum-Computing-using-fractals/blob/main/img/1qubit_simulator_H_U_pi4_-pi3_pi8_dpi600.png" width="100%" style="max-width: 100%;"></a>
 
 You'll find two notebooks demonstrating how quantum computing can be visualized using fractals. <br />
 The 1-qubit notebook demonstrates this with one qubit in the ideal case, mimicking running on a fault-tolerant quantum computer with a simulator. Try it yourself, either go with the default quantum circuit or create your own 1-qubit quantum circuit and also see how the fractal looks after running on a real quantum computer! <br />
