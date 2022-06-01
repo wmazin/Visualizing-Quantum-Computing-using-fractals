@@ -9,8 +9,6 @@ The 1-qubit notebook demonstrates this with one qubit in the ideal case, mimicki
 The 2-qubit notebook makes it possible to create fractals that can be used to visualize two-qubit quantum circuits, showing how, e.g., quantum entanglement may look like a fractal. Of course, you may also use a real quantum computer to generate the fractal and compare with the simulated.
 
 Read more about the project in the [blog](https://qisk.it/3NayT1G).
-
-<a href="https://qisk.it/3NayT1G" target="_blank">blog</a>
   
 <br />
 
