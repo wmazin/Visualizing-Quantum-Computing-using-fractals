@@ -11,7 +11,7 @@ The notebook "QuantumFractals1qubit1CN_2CN_plots" demonstrates this letting you 
 With the "QuantumFractals1qubit_sphere_fractals_animation" notebook you can create fractal animations covering (RZ) rotations on the [Bloch sphere](https://qiskit.org/textbook/ch-states/representing-qubit-states.html#bloch-sphere), fractal animations generated with one complex number and two variations of Julia set mating.
 
 
-Read more about the this part in the [blog](link to LinkedIn article).
+Read more about the this part in the [blog](https://www.linkedin.com/pulse/create-new-fractal-art-animations-wiktor-mazin-phd-mmt/).
 <br />
 Main [project](https://github.com/wmazin/Visualizing-Quantum-Computing-using-fractals)
 
