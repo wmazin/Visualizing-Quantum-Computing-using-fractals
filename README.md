@@ -10,7 +10,7 @@ There are two types of notebooks demonstrating how quantum computing can be visu
 
 Read more about the project in the<br />
 * [Qiskit blog post](https://qisk.it/3NayT1G) (the first blog with fractals based on one complex number)
-* [LinkedIn blog post](https://www.linkedin.com/pulse/create-new-fractal-art-animations-wiktor-mazin-phd-mmt/) (the latest blog with fractals with fractals based on multiple complex numbers)
+* [LinkedIn blog post](https://www.linkedin.com/pulse/create-new-fractal-art-animations-wiktor-mazin-phd-mmt/) (the latest blog with fractals based on multiple complex numbers)
   
 <br />
 
