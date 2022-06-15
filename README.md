@@ -9,8 +9,8 @@ There are two types of notebooks demonstrating how quantum computing can be visu
 <b>quantum-fractals-multiple-complex-numbers</b> folder: You'll find a 1-qubit notebook showing how to create even more astonishing fractals based on two complex numbers (the statevector's complex amplitudes) with a quantum simulator and after running on a real quantum computer. The second notebook makes it possible to create fractal animations and relate them to rotations on the Bloch sphere.<br /> 
 
 Read more about the project in the<br />
-* [Qiskit blog](https://qisk.it/3NayT1G) (the first blog with fractals based on one complex number)
-* [LinkedIn blog](link to LinkedIn) (the latest blog with fractals with fractals based on multiple complex numbers)
+* [Qiskit blog post](https://qisk.it/3NayT1G) (the first blog with fractals based on one complex number)
+* [LinkedIn blog post](https://www.linkedin.com/pulse/create-new-fractal-art-animations-wiktor-mazin-phd-mmt/) (the latest blog with fractals with fractals based on multiple complex numbers)
   
 <br />
 
