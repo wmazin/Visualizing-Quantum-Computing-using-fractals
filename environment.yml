@@ -1,0 +1,11 @@
+name: Qiskitenv
+dependencies:
+- python=3.7
+- notebook
+- matplotlib
+- ipywidgets
+- math
+- pip:
+  - numpy==1.19.5
+  - qiskit==0.23
+  - celluloid
