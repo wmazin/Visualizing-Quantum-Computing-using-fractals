@@ -4,6 +4,7 @@ dependencies:
 - notebook
 - matplotlib
 - ipywidgets
+- math
 - pip
 - pip:
   - numpy==1.22.4
