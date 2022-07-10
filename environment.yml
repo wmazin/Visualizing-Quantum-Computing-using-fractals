@@ -3,7 +3,6 @@ dependencies:
 - python=3.10
 - notebook
 - matplotlib
-- ipywidgets
 - pip
 - pip:
   - numpy==1.22.4
