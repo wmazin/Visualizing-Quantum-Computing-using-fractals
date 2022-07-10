@@ -7,6 +7,5 @@ dependencies:
 - pip:
   - numpy==1.22.4
   - qiskit==0.36.2
-  - ibm-q-lab-widgets
-  - ibm_quantum_widgets==1.0.3
+  - ibm_quantum_widgets
   - celluloid==0.2.0
