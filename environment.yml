@@ -1,12 +1,11 @@
 name: Qiskitenv
 dependencies:
-- python=3.10
+- python=3.7
 - notebook
 - matplotlib
 - pip
 - pip:
   - numpy==1.22.4
   - qiskit==0.36.2
-  - @quantum/ibm-q-lab-widgets
   - ibm_quantum_widgets==1.0.3
   - celluloid==0.2.0
