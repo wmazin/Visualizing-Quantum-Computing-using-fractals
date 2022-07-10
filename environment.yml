@@ -9,3 +9,4 @@ dependencies:
   - numpy==1.22.4
   - qiskit==0.36.2
   - celluloid==0.2.0
+  - ibm_quantum_widgets==1.0.3
