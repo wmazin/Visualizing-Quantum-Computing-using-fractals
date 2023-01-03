@@ -8,10 +8,13 @@ Here previous [Quantum Fourier Transformation](https://github.com/TMuehge/Quantu
   2.	Measurement gates are added and the circuit is executed on a noisy quantum simulator (qasm simulator with a noise model). This results in counts and probabilities of each of the eight basis states. 
   3.	Two types of 3-qubit fractals based on Julia set mating are leveraged utilizing the eight complex amplitudes. Four fractal images are created based on these two types of fractals both with (adjusting for the counts) and without noise.
 
+<br />
 
 **Instructions**
 <br />
 See [Getting started](https://github.com/wmazin/Visualizing-Quantum-Computing-using-fractals) 
+<br />
+<br />
 
 **License - fractals**
 <br />
