@@ -47,6 +47,7 @@ This work is licensed under a
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 <br />
+
 **Contact**
 <br />
 [Wiktor Mazin](https://www.linkedin.com/in/wiktor-mazin-phd-mmt-062321/)
