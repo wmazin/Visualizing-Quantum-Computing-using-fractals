@@ -35,10 +35,16 @@ This project is in honor of my late professor, [Erik Mosekilde](https://www.rese
 
 **License**
 <br />
-Art files based on the code in the folder fractals-multiple-complex-number: [cc-by](http://creativecommons.org/licenses/by/4.0/) (see folder)
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Art files based on the code in the folder fractals-multiple-complex-numbers: [cc-by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/4.0/) (see folder)
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
 
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 
 **Contact**
