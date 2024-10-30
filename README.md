@@ -52,6 +52,6 @@ This work is licensed under a
 <br />
 [Wiktor Mazin](https://www.linkedin.com/in/wiktor-mazin-phd-emba-062321/)
 <br />
-[My quantum art on Instagram](https://www.instagram.com/wiktormazin_quantum_art/)
+[My quantum fractal art on Instagram](https://www.instagram.com/wiktormazin_quantum_art/)
 
 
