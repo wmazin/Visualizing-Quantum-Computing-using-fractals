@@ -51,4 +51,7 @@ This work is licensed under a
 **Contact**
 <br />
 [Wiktor Mazin](https://www.linkedin.com/in/wiktor-mazin-phd-emba-062321/)
+<br />
+[Quantum Art on Instagram](https://www.instagram.com/wiktormazin_quantum_art/)
+
 
