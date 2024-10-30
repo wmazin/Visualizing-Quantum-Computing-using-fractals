@@ -50,5 +50,5 @@ This work is licensed under a
 
 **Contact**
 <br />
-[Wiktor Mazin](https://www.linkedin.com/in/wiktor-mazin-phd-mmt-062321/)
+[Wiktor Mazin](https://www.linkedin.com/in/wiktor-mazin-phd-emba-062321/)
 
