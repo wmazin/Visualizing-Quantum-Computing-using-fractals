@@ -16,7 +16,7 @@ Read more about the project in the<br />
 
 
 **Getting started**
-1. Upload the notebooks to the [IBM Quantum Lab](https://quantum-computing.ibm.com/) or install [Qiskit locally](https://qiskit.org/documentation/getting_started.html) 
+1. Install [Qiskit locally](https://qiskit.org/documentation/getting_started.html) 
 2. Notebooks in the <b>quantum-fractals-one-complex-number</b> folder: Run the 1- or 2-qubit notebook with the default quantum circuit yielding both the ideal simulated fractal as well as the fractal generated after running on a real quantum computer. <br />
 In the current version nice fractals may be achieved when either the 1-qubit quantum circuit statevector isn't on the axes of the Bloch sphere or you generate a 2-qubit quantum circuit involving all four computational basis states. Both can be checked in the notebooks. <br /> <br />
 Notebooks in the <b>quantum-fractals-multiple-complex-numbers</b> folder: Run the 1-qubit plots notebook with the default quantum circuit yielding both ideal simulated fractals as well as the fractals generated after running on a real quantum computer.<br />
